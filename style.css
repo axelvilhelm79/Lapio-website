@@ -1,1 +1,4 @@
-p { background-color: red; }
+* {color: red}
+p { background-color: white; }
+#otsikko { color: blue }
+.pinkiksi {color: pink}
