@@ -3,6 +3,14 @@
     height: 100px;
     position: absolute;
     background-color: red;
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    text-align: center;
 }
 .second_container {
     width: 200px;
@@ -10,6 +18,14 @@
     left: 250px;
     position: absolute;
     background-color: yellow;
+    border-color: red;
+    border-width: 10px;
+    border-style: solid;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    text-align: center;
 }
 .third_container {
     width: 200px;
@@ -17,4 +33,12 @@
     left: 500px;
     position: absolute;
     background-color: green;
+    border-color: yellow;
+    border-width: 10px;
+    border-style: solid;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    text-align: center;
 }
