@@ -1,4 +1,13 @@
-* {color: red}
-p { background-color: white; }
-#otsikko { color: blue }
-.pinkiksi {color: pink}
+body {
+    color: #555;
+    margin: 0 auto;
+    max-width: 55em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+  }
+h2 {
+    color: #333;
+    margin-top: 1em;
+    padding-top: 1em;
+  }
