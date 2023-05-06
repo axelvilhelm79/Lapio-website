@@ -1,0 +1,20 @@
+.first_container {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    background-color: red;
+}
+.second_container {
+    width: 200px;
+    height: 100px;
+    left: 250px;
+    position: absolute;
+    background-color: yellow;
+}
+.third_container {
+    width: 200px;
+    height: 100px;
+    left: 500px;
+    position: absolute;
+    background-color: green;
+}
